@@ -15,10 +15,6 @@
   "author": "Dmitri",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^7.1.4",
-    "concat": "^1.0.3",
-    "node-sass": "^4.5.3",
-    "npm-run-all": "^4.1.1",
-    "postcss-cli": "^4.1.1"
+    "autoprefixer": "^10.3.0"
   }
 }
